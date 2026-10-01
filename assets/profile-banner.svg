@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">PANDAO — practical open-source tools</title>
+  <desc id="desc">Make the repetitive part automatic. Tools for overlooked workflows, with local files, working demos, and useful outputs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111c2e"/><stop offset="1" stop-color="#07121b"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#294251" stroke-width="1" opacity=".3"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="20" fill="url(#grid)"/>
+  <rect x="48" y="48" width="6" height="26" rx="3" fill="#58e3ba"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="70" y="69" fill="#58e3ba" font-size="22" font-weight="700" letter-spacing="3">PANDAO / OPEN SOURCE</text>
+    <text x="48" y="145" fill="#f4f8fb" font-size="48" font-weight="700">Make the repetitive</text>
+    <text x="48" y="202" fill="#f4f8fb" font-size="48" font-weight="700">part automatic.</text>
+    <text x="50" y="253" fill="#b9c9d5" font-size="21">Practical tools for overlooked workflows.</text>
+    <text x="50" y="294" fill="#8098aa" font-size="17">LOCAL FILES  /  WORKING DEMOS  /  USEFUL OUTPUTS</text>
+    <g transform="translate(850 53)">
+      <path d="M30 58H142V116H252V178" fill="none" stroke="#58e3ba" stroke-width="3"/>
+      <rect x="0" y="0" width="112" height="80" rx="12" fill="#152b3b" stroke="#34546a"/>
+      <path d="M24 24H66M24 36H83M24 48H76" stroke="#b9c9d5" stroke-width="3" stroke-linecap="round"/>
+      <rect x="100" y="89" width="128" height="82" rx="12" fill="#142e34" stroke="#58e3ba"/>
+      <path d="M124 128L134 138L152 117" fill="none" stroke="#58e3ba" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M169 122H204M169 135H198" stroke="#b9c9d5" stroke-width="3" stroke-linecap="round"/>
+      <rect x="210" y="179" width="124" height="72" rx="12" fill="#302e23" stroke="#eaca82"/>
+      <path d="M232 204H256L262 211H310V230H232Z" fill="none" stroke="#eaca82" stroke-width="3" stroke-linejoin="round"/>
+      <text x="120" y="36" fill="#8098aa" font-size="16">INPUT</text>
+      <text x="238" y="131" fill="#58e3ba" font-size="16">REVIEW</text>
+      <text x="128" y="224" fill="#eaca82" font-size="16">OUTPUT</text>
+    </g>
+  </g>
+</svg>
